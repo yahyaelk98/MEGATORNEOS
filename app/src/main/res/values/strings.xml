@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MEGATORNEOS</string>
+    <string name="register_unete">¡Únete a megatorneos!</string>
+    <string name="register_nombre_apellidos">Nombre y apellidos</string>
+    <string name="register_email">Correo electrónico</string>
+    <string name="register_clear">borrar</string>
+    <string name="register_mostrar">Mostrar</string>
+    <string name="register_ocultar">Ocultar</string>
+    <string name="register_clave">Contraseña</string>
+    <string name="register_registrate">Regístrate</string>
+    <string name="register_iniciar_sesion">Iniciar sesión</string>
+    <string name="register_tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="register_continuar_google">Continuar con Google</string>
+    <string name="register_o">o</string>
+    <string name="login_title">¡Inicia sesión!</string>
+    <string name="login_inicia_sesion">Iniciar sesión</string>
+    <string name="login_pregunta">¿Usuario nuevo?</string>
+    <string name="login_registrate">Regístrate</string>
+    <string name="mensajes_title">Mensajes</string>
+    <string name="chat_input_hint">Escribe un mensaje</string>
+    <string name="chat_enviar">Enviar</string>
+    <string name="volver">Volver</string>
+    <string name="mas">Más</string>
+</resources>

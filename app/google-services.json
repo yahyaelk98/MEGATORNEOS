@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275782704095",
+    "firebase_url": "https://megatorneos-6f5e6.firebaseio.com",
+    "project_id": "megatorneos-6f5e6",
+    "storage_bucket": "megatorneos-6f5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275782704095:android:0ed13f7ec10ea2d592c26a",
+        "android_client_info": {
+          "package_name": "com.megatorneos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275782704095-fklt2fe0rqrvse3n60uv4g5b1rtbao0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQjeKP9BFzs2nY-StI6L4m5hrUnvNMg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275782704095-fklt2fe0rqrvse3n60uv4g5b1rtbao0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

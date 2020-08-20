@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_bnv_principal"
+        android:icon="@drawable/ic_home"
+        android:title="Principal" />
+
+    <item
+        android:id="@+id/main_bnv_favoritos"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favoritos" />
+
+    <item
+        android:id="@+id/main_bnv_nuevo_torneo"
+        android:icon="@drawable/ic_add_circle"
+        android:title="Nuevo torneo" />
+
+    <item
+        android:id="@+id/main_bnv_mensajes"
+        android:icon="@drawable/ic_outline_message_24"
+        android:title="Mensajes" />
+
+    <item
+        android:id="@+id/main_bnv_perfil"
+        android:icon="@drawable/ic_person"
+        android:title="Perfil" />
+</menu>
